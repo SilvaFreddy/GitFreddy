@@ -1,0 +1,51 @@
+validar material con fabian que dejo julian osorio
+
+
+
+tecnicas de diseño y estimación
+
+
+1 curso para herramientas qv
+1 curso para metodología tradicional -->> Caso de estudio con Artefactos
+1 curso para metodología ágil  --> Teoria y caso estudio
+1 curso de redacción para correos, casos de prueba segun lo que se maneja en los clientes
+
+para los diseños de casos validar tecnicas de estimación de pruebas
+Validar casos de prueba candidatos a automatizar en que parte de proceso lo podemos incluir
+
+revisar cursos de fundamentos de istq
+
+
+validar con funcionales ejecución de scripts de automatizacion y performance y su analisis
+validar con operación cargas bajas de personal para apoyo en elaborar refuerzo metodología
+
+
+
+charla de estrategia de automatizacion
+
+validar con fabian el curso de ws el temario y como se esta diseñado
+quien esta asignado 
+fecha de entrega
+postman y soapui
+validar reto en servicios web un caso de estudio
+verificar que este incluido rest json xml soap
+
+
+
+flujo de proceso de seguimiento de las personas para induccion desde la seleccion de personas
+
+
+Fundamentos de Scrum (Certificado)
+
+Refuerzo Metodologico
+	Se debe actualizar el curso
+	Faltan definiciones y mas contexto en cada etapa
+	Incluir Q-manager
+	Crear curso para el manejo de artefactos QV
+	
+Pruebas Ágiles ISTQB
+	Sugerencias de algunos analistas que lo realizaron. Algunos capitulos son extenson en Texto, deberia ser mas dinámico
+
+Pruebas Manuales de Servicios Web
+
+Pruebas de Interfaz de Usuario (GUI)
